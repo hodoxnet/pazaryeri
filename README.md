@@ -1,12 +1,12 @@
 # Pazaryeri - Frontend Test Case
 
-Production-ready, scalable marketplace frontend application built with Next.js 15, TypeScript, and modern web technologies.
+Production-ready, scalable marketplace frontend application built with Next.js 16+, TypeScript, and modern web technologies.
 
 ## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
-| **Next.js 15** | React framework with App Router |
+| **Next.js 16+** | React framework with App Router |
 | **TypeScript** | Type-safe development (strict mode) |
 | **Tailwind CSS** | Utility-first styling with dark mode |
 | **Zustand** | Lightweight state management |
@@ -250,4 +250,4 @@ This project is created as a technical assessment for the Frontend Developer pos
 
 ---
 
-Built with Next.js 15 | TypeScript | Tailwind CSS | Zustand
+Built with Next.js 16+ | TypeScript | Tailwind CSS | Zustand
