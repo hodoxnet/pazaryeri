@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cep Telefonu",
+      "slug": "cep-telefonu",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/phone/400/400",
+      "children": []
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar & Tablet",
+      "slug": "bilgisayar-tablet",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/computer/400/400",
+      "children": [
+        {
+          "id": 21,
+          "name": "Laptop",
+          "slug": "laptop",
+          "parentCategoryId": 2,
+          "imageUrl": "https://picsum.photos/seed/laptop/400/400"
+        },
+        {
+          "id": 22,
+          "name": "Tablet",
+          "slug": "tablet",
+          "parentCategoryId": 2,
+          "imageUrl": "https://picsum.photos/seed/tablet/400/400"
+        },
+        {
+          "id": 23,
+          "name": "Masaüstü Bilgisayar",
+          "slug": "masaustu-bilgisayar",
+          "parentCategoryId": 2,
+          "imageUrl": "https://picsum.photos/seed/desktop/400/400"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elektronik",
+      "slug": "elektronik",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/electronics/400/400",
+      "children": [
+        {
+          "id": 31,
+          "name": "Kulaklık",
+          "slug": "kulaklik",
+          "parentCategoryId": 3,
+          "imageUrl": "https://picsum.photos/seed/headphones/400/400"
+        },
+        {
+          "id": 32,
+          "name": "Akıllı Saat",
+          "slug": "akilli-saat",
+          "parentCategoryId": 3,
+          "imageUrl": "https://picsum.photos/seed/smartwatch/400/400"
+        },
+        {
+          "id": 33,
+          "name": "Oyun Konsolu",
+          "slug": "oyun-konsolu",
+          "parentCategoryId": 3,
+          "imageUrl": "https://picsum.photos/seed/gaming/400/400"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Erkek Giyim",
+      "slug": "erkek-giyim",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/mensfashion/400/400",
+      "children": [
+        {
+          "id": 41,
+          "name": "Gömlek",
+          "slug": "gomlek",
+          "parentCategoryId": 4,
+          "imageUrl": "https://picsum.photos/seed/shirt/400/400"
+        },
+        {
+          "id": 42,
+          "name": "Ceket",
+          "slug": "ceket",
+          "parentCategoryId": 4,
+          "imageUrl": "https://picsum.photos/seed/jacket/400/400"
+        },
+        {
+          "id": 43,
+          "name": "Pantolon",
+          "slug": "pantolon",
+          "parentCategoryId": 4,
+          "imageUrl": "https://picsum.photos/seed/pants/400/400"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kadın Giyim",
+      "slug": "kadin-giyim",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/womensfashion/400/400",
+      "children": [
+        {
+          "id": 51,
+          "name": "Elbise",
+          "slug": "elbise",
+          "parentCategoryId": 5,
+          "imageUrl": "https://picsum.photos/seed/dress/400/400"
+        },
+        {
+          "id": 52,
+          "name": "Kaban & Mont",
+          "slug": "kaban-mont",
+          "parentCategoryId": 5,
+          "imageUrl": "https://picsum.photos/seed/coat/400/400"
+        },
+        {
+          "id": 53,
+          "name": "Bluz",
+          "slug": "bluz",
+          "parentCategoryId": 5,
+          "imageUrl": "https://picsum.photos/seed/blouse/400/400"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ayakkabı",
+      "slug": "ayakkabi",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/shoes/400/400",
+      "children": [
+        {
+          "id": 61,
+          "name": "Spor Ayakkabı",
+          "slug": "spor-ayakkabi",
+          "parentCategoryId": 6,
+          "imageUrl": "https://picsum.photos/seed/sneakers/400/400"
+        },
+        {
+          "id": 62,
+          "name": "Günlük Ayakkabı",
+          "slug": "gunluk-ayakkabi",
+          "parentCategoryId": 6,
+          "imageUrl": "https://picsum.photos/seed/casualshoes/400/400"
+        },
+        {
+          "id": 63,
+          "name": "Bot",
+          "slug": "bot",
+          "parentCategoryId": 6,
+          "imageUrl": "https://picsum.photos/seed/boots/400/400"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ev & Yaşam",
+      "slug": "ev-yasam",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/home/400/400",
+      "children": [
+        {
+          "id": 71,
+          "name": "Elektrikli Süpürge",
+          "slug": "elektrikli-supurge",
+          "parentCategoryId": 7,
+          "imageUrl": "https://picsum.photos/seed/vacuum/400/400"
+        },
+        {
+          "id": 72,
+          "name": "Küçük Ev Aletleri",
+          "slug": "kucuk-ev-aletleri",
+          "parentCategoryId": 7,
+          "imageUrl": "https://picsum.photos/seed/appliances/400/400"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Spor & Outdoor",
+      "slug": "spor-outdoor",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/sports/400/400",
+      "children": []
+    },
+    {
+      "id": 9,
+      "name": "Kozmetik",
+      "slug": "kozmetik",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/cosmetics/400/400",
+      "children": []
+    },
+    {
+      "id": 10,
+      "name": "Kitap & Kırtasiye",
+      "slug": "kitap-kirtasiye",
+      "parentCategoryId": null,
+      "imageUrl": "https://picsum.photos/seed/books/400/400",
+      "children": []
+    }
+  ]
+}

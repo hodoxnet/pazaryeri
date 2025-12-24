@@ -1,0 +1,121 @@
+{
+  "common": {
+    "search": "Ara",
+    "searchPlaceholder": "Ürün, kategori veya marka ara...",
+    "cart": "Sepet",
+    "favorites": "Favoriler",
+    "categories": "Kategoriler",
+    "allCategories": "Tüm Kategoriler",
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "viewAll": "Tümünü Gör",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "language": "Dil",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod"
+  },
+  "home": {
+    "hero": {
+      "title": "En İyi Fiyatlarla Alışveriş",
+      "subtitle": "Binlerce ürün, güvenli ödeme, hızlı teslimat"
+    },
+    "featuredCategories": "Öne Çıkan Kategoriler",
+    "bestSellers": "Çok Satanlar",
+    "newArrivals": "Yeni Gelenler",
+    "deals": "Fırsatlar",
+    "freeShipping": "Ücretsiz Kargo",
+    "freeShippingDesc": "150 TL ve üzeri siparişlerde",
+    "securePayment": "Güvenli Ödeme",
+    "securePaymentDesc": "256-bit SSL şifreleme",
+    "support": "7/24 Destek",
+    "supportDesc": "Her zaman yanınızdayız",
+    "discoverByCategory": "Kategorilere Göre Keşfet"
+  },
+  "product": {
+    "addToCart": "Sepete Ekle",
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Çıkar",
+    "inStock": "Stokta",
+    "outOfStock": "Stokta Yok",
+    "quantity": "Adet",
+    "price": "Fiyat",
+    "originalPrice": "Liste Fiyatı",
+    "discount": "İndirim",
+    "description": "Ürün Açıklaması",
+    "specifications": "Özellikler",
+    "reviews": "Değerlendirmeler",
+    "noReviews": "Henüz değerlendirme yok",
+    "writeReview": "Değerlendirme Yaz",
+    "relatedProducts": "Benzer Ürünler",
+    "seller": "Satıcı",
+    "brand": "Marka",
+    "sku": "Ürün Kodu",
+    "category": "Kategori",
+    "filters": "Filtreler",
+    "sortBy": "Sırala",
+    "sortOptions": {
+      "newest": "En Yeniler",
+      "priceAsc": "Fiyat (Düşükten Yükseğe)",
+      "priceDesc": "Fiyat (Yüksekten Düşüğe)",
+      "popular": "En Popüler",
+      "rating": "En Yüksek Puan"
+    },
+    "showingResults": "{count} ürün gösteriliyor",
+    "noProducts": "Ürün bulunamadı"
+  },
+  "cart": {
+    "title": "Sepetim",
+    "empty": "Sepetiniz boş",
+    "emptyDesc": "Alışverişe başlamak için ürün ekleyin",
+    "continueShopping": "Alışverişe Devam Et",
+    "subtotal": "Ara Toplam",
+    "shipping": "Kargo",
+    "total": "Toplam",
+    "checkout": "Siparişi Tamamla",
+    "remove": "Kaldır",
+    "updateQuantity": "Adet Güncelle",
+    "itemCount": "{count} ürün",
+    "freeShippingRemaining": "Ücretsiz kargo için {amount} daha ekleyin"
+  },
+  "favorites": {
+    "title": "Favorilerim",
+    "empty": "Henüz favori ürününüz yok",
+    "emptyDesc": "Beğendiğiniz ürünleri favorilere ekleyin",
+    "addedToFavorites": "Favorilere eklendi",
+    "removedFromFavorites": "Favorilerden çıkarıldı"
+  },
+  "footer": {
+    "aboutUs": "Hakkımızda",
+    "contactUs": "İletişim",
+    "customerService": "Müşteri Hizmetleri",
+    "faq": "Sıkça Sorulan Sorular",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Kullanım Koşulları",
+    "returnPolicy": "İade Politikası",
+    "followUs": "Bizi Takip Edin",
+    "newsletter": "Bülten",
+    "newsletterDesc": "Kampanyalardan haberdar olun",
+    "subscribe": "Abone Ol",
+    "allRightsReserved": "Tüm hakları saklıdır"
+  },
+  "errors": {
+    "pageNotFound": "Sayfa Bulunamadı",
+    "pageNotFoundDesc": "Aradığınız sayfa mevcut değil veya taşınmış olabilir",
+    "serverError": "Sunucu Hatası",
+    "serverErrorDesc": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin",
+    "goHome": "Ana Sayfaya Dön"
+  },
+  "meta": {
+    "siteTitle": "Pazaryeri - Online Alışveriş",
+    "siteDescription": "En iyi fiyatlarla binlerce ürün. Güvenli ödeme ve hızlı teslimat.",
+    "productTitle": "{name} - Pazaryeri",
+    "categoryTitle": "{name} - Pazaryeri"
+  }
+}

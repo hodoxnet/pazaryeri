@@ -1,0 +1,121 @@
+{
+  "common": {
+    "search": "Search",
+    "searchPlaceholder": "Search for products, categories or brands...",
+    "cart": "Cart",
+    "favorites": "Favorites",
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "home": "Home",
+    "products": "Products",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "home": {
+    "hero": {
+      "title": "Shop at the Best Prices",
+      "subtitle": "Thousands of products, secure payment, fast delivery"
+    },
+    "featuredCategories": "Featured Categories",
+    "bestSellers": "Best Sellers",
+    "newArrivals": "New Arrivals",
+    "deals": "Deals",
+    "freeShipping": "Free Shipping",
+    "freeShippingDesc": "On orders over 150 TL",
+    "securePayment": "Secure Payment",
+    "securePaymentDesc": "256-bit SSL encryption",
+    "support": "24/7 Support",
+    "supportDesc": "We are always here for you",
+    "discoverByCategory": "Discover by Category"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "quantity": "Quantity",
+    "price": "Price",
+    "originalPrice": "List Price",
+    "discount": "Discount",
+    "description": "Product Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "noReviews": "No reviews yet",
+    "writeReview": "Write a Review",
+    "relatedProducts": "Related Products",
+    "seller": "Seller",
+    "brand": "Brand",
+    "sku": "SKU",
+    "category": "Category",
+    "filters": "Filters",
+    "sortBy": "Sort By",
+    "sortOptions": {
+      "newest": "Newest",
+      "priceAsc": "Price (Low to High)",
+      "priceDesc": "Price (High to Low)",
+      "popular": "Most Popular",
+      "rating": "Highest Rated"
+    },
+    "showingResults": "Showing {count} products",
+    "noProducts": "No products found"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Add products to start shopping",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "updateQuantity": "Update Quantity",
+    "itemCount": "{count} items",
+    "freeShippingRemaining": "Add {amount} more for free shipping"
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "empty": "You have no favorite products yet",
+    "emptyDesc": "Add products you like to your favorites",
+    "addedToFavorites": "Added to favorites",
+    "removedFromFavorites": "Removed from favorites"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "customerService": "Customer Service",
+    "faq": "FAQ",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "returnPolicy": "Return Policy",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Stay updated with our campaigns",
+    "subscribe": "Subscribe",
+    "allRightsReserved": "All rights reserved"
+  },
+  "errors": {
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDesc": "The page you are looking for does not exist or has been moved",
+    "serverError": "Server Error",
+    "serverErrorDesc": "An error occurred. Please try again later",
+    "goHome": "Go to Home"
+  },
+  "meta": {
+    "siteTitle": "Pazaryeri - Online Shopping",
+    "siteDescription": "Thousands of products at the best prices. Secure payment and fast delivery.",
+    "productTitle": "{name} - Pazaryeri",
+    "categoryTitle": "{name} - Pazaryeri"
+  }
+}
